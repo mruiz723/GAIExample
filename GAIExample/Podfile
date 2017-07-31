@@ -7,4 +7,6 @@ target 'GAIExample' do
 
   # Pods for GAIExample
 pod 'Google/Analytics'
+pod 'Firebase/Core'
+
 end
